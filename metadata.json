@@ -1,0 +1,6 @@
+{
+  "name": "AM Premium Store",
+  "description": "AM Premium Membership & Digital Store Platform with Security Checkpoint and Subscription Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
